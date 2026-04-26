@@ -31,7 +31,7 @@ jupyter notebook loan_model.ipynb
 
 Run cells top to bottom, or jump to **Step 12** for `run_end_to_end_demo()` after dependencies are installed.
 
-## Design choices worth calling out in interviews
+##Key Design Decisions
 
 - **Leakage control:** `duration` is excluded from training features when building a realistic “pre-contact” propensity story.
 - **Stratified split** and **ROC-AUC / lift** reporting for imbalanced marketing outcomes.
