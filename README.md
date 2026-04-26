@@ -36,7 +36,7 @@ Run cells top to bottom, or jump to **Step 12** for `run_end_to_end_demo()` afte
 - **Leakage control:** `duration` is excluded from training features when building a realistic “pre-contact” propensity story.
 - **Stratified split** and **ROC-AUC / lift** reporting for imbalanced marketing outcomes.
 - **Fairness watchlist** is a lightweight segment monitor (sample size + calibration-style gap), not a full legal fairness audit.
-- **Mock LLM** is intentional: reproducible demos without storing secrets; swap `mock_llm_generate` for a real provider when you are ready.
+- **Mock LLM** is intentional
 
 ## Dataset credit
 
