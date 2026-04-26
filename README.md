@@ -43,11 +43,8 @@ Run cells top to bottom, or jump to **Step 12** for `run_end_to_end_demo()` afte
 Moro, S., Rita, P., and Cortez, P. (2014). Bank Marketing. UCI Machine Learning Repository.  
 [https://doi.org/10.24432/C5K306](https://doi.org/10.24432/C5K306)
 
-If you obtained `bank.csv` via Kaggle, cite that source in derivative work as required by their terms.
 
-## License
 
-Notebook and code in this repository are provided as **portfolio / educational** material unless you add an explicit open-source license. Add a `LICENSE` file if you want others to reuse the code under clear terms.
 
 ---
 
