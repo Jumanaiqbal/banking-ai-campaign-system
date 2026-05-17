@@ -17,6 +17,5 @@ build/
 .idea/
 .vscode/
 
-# Secrets (never commit API keys)
 .env
 *.pem
